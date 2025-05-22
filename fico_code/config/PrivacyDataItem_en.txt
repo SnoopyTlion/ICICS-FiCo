@@ -1,0 +1,170 @@
+android id, android identifier, unique android identifier, device id, android device identifier
+apple id, apple identifier, apple account, apple username, apple login
+cookie, http cookie, web cookie, browser cookie, tracking cookie
+gps, global positioning system, satellite navigation, gps tracking, location services
+instance id, unique instance identifier, instance identifier, instance token, application instance id
+ip, internet protocol address, ip address, network address, ip number
+sim, subscriber identity module, sim card, mobile card, mobile identity
+serial number, serial code, product serial, serial identifier, serial key
+wifi, wireless fidelity, wi-fi network, wireless network, wlan
+wlan, wireless local area network, wi-fi network, wireless network, wifi
+step count, step tracker, walking count, pedometer reading, activity steps
+department, division, unit, section, branch
+property, asset, possession, belongings, estate
+city, town, municipality, urban center, metropolis
+date of birth, birthdate, dob, birth day, born date
+place, location, spot, area, site
+area, region, zone, territory, district
+telephone, phone, landline, mobile, call
+mail, email, electronic mail, inbox, message
+position, job title, role, employment position, occupation
+exercise duration, workout duration, activity duration, training duration, session length
+heart rate, pulse rate, cardiac rate, beats per minute, bpm
+bill, invoice, statement, receipt, account statement
+obesity, overweight, excess weight, adiposity, corpulence
+account, profile, user account, account credentials, account information
+sensitive personal information, private information, confidential data, personally identifiable information, PII
+feature, characteristic, attribute, trait, quality
+personal information, private information, individual data, personal data, personally identifiable information
+id card, identification card, identity card, ID, card
+shopping cart, basket, shopping bag, trolley, cart
+bone mass, bone density, skeletal mass, bone mineral content, osteal mass
+focus on, concentrate on, pay attention to, center on, direct attention toward
+advertising id, ad id, tracking id, identifier for advertisers, ad tracking identifier
+country, nation, state, land, territory
+allergy, hypersensitivity, sensitiveness, allergic reaction, allergic condition
+respiratory rate, breathing rate, respiration rate, breath rate, respiration frequency
+household registration, household registration record, residence registration, hukou, family registration
+passport, travel document, identification document, ID, travel papers
+portrait, picture, photograph, image, likeness
+agency code, organization code, bureau code, department code, administrative code
+skin, dermis, epidermis, cutis, integument
+muscle, muscular tissue, musculature, flesh, bodybuilding
+record, document, file, data, archive
+family, household, kin, relatives, clan
+clipboard, clipboard memory, pasteboard, temporary storage, buffer
+longitude, meridian, longitude line, geographic coordinate, east-west coordinate
+military, armed forces, defense, military organization, military establishment
+card number, card identifier, card code, card reference, card identification number
+account, profile, user account, account credentials, account information
+account, profile, user account, account credentials, account information
+password, passcode, access code, secret code, security key
+mileage, distance traveled, travel distance, distance covered, journey distance
+address, location, postal address, street address, residence
+contact, communication, interaction, connection, touch
+image, picture, photo, photograph, visual
+record, document, file, data, entry
+microphone, mic, audio input device, sound recorder, voice pickup device
+pulse, heartbeat, heart rate, cardiac rhythm, pulsation
+chronic history, medical history, long-standing record, persistent background, enduring past
+password, passcode, security code, access key, secret phrase
+face, facial expression, countenance, visage, appearance
+nationality, citizenship, country of origin, national identity, ethnic background
+name, title, moniker, appellation, designation
+identification number, ID number, identification code, ID code, personal identifier
+age, years, lifespan, generation, time of existence
+preference, inclination, liking, choice, predilection
+enterprise, company, business, organization, corporation
+area, region, zone, district, locality
+human face, facial features, visage, countenance, physiognomy
+hold office, occupy a position, serve in a role, be in power, hold a post
+agenda record, schedule, itinerary, plan, program
+calendar, schedule, planner, timetable, agenda
+device id, device identifier, unique device identifier, device registration number, device serial number
+device identifier, device ID, unique device identifier, device registration number, device serial number
+device parameters, device settings, device configuration, device options, device preferences
+device sensors, sensor array, sensor suite, sensing devices, detection mechanisms
+device advertising identifier, ad ID, tracking ID, advertising tracking identifier, ad tracking code
+equipment environment, device environment, hardware environment, system environment, technological setting
+device environment information, device context, system information, hardware details, technical specifications
+equipment category, device category, hardware category, product category, machine classification
+equipment type, device type, hardware type, product type, machine variety
+device settings, system settings, configuration settings, preferences, options
+device identification number, device ID number, device registration number, serial number, hardware identifier
+device unique identifier, unique device ID, hardware identifier, registration code, distinctive device identifier
+device model, hardware model, device type, product model, machine version
+device serial number, serial code, hardware serial number, product serial, machine serial
+device serial code, serial number, hardware serial code, product code, machine identification code
+device hardware serial number, hardware serial number, machine serial, product serial, equipment serial number
+social credit code, unified social credit code, corporate social credit code, organizational code, business registration number
+identity, identification, personal identity, individuality, selfhood
+height, stature, tallness, vertical measurement, elevation
+body, physique, organism, anatomy, corporeal form
+birthday, birthdate, date of birth, natal day, anniversary of birth
+biometrics, biometric data, biometric identifiers, physiological measurements, body-based characteristics
+bio, biography, life story, life account, personal narrative
+youtube, video platform, video sharing site, online video service, video hosting website
+instagram, social media platform, photo-sharing app, image-based network, visual sharing platform
+voiceprint, vocal signature, voice recognition pattern, vocal fingerprint, acoustic profile
+sound, audio, noise, auditory signal, sonic output
+province, state, region, territory, administrative division
+income, earnings, revenue, salary, wages
+phone, telephone, mobile phone, cellphone, smartphone
+digital certificate, electronic certificate, digital ID, e-certificate, cryptographic credential
+tax id number, taxpayer identification number, tax identification code, tax registration number, fiscal identification number
+sleep, slumber, rest, snooze, nap
+feature, characteristic, attribute, quality, trait
+weight, mass, heaviness, body weight, gravitational force
+call, phone call, telephone call, conversation, ring
+communication records, call records, phone records, message history, communication logs
+communication records, call records, phone records, message history, communication logs
+address book, contact list, phone book, contact directory, address directory
+unified social credit code, social credit number, corporate credit code, organizational credit code, business identification number
+gateway, router, network gateway, access point, network interface
+work, job, employment, occupation, profession
+network card, network adapter, network interface card, NIC, Ethernet card
+network related information, network details, connection information, networking parameters, network configuration
+network status, connectivity status, network connection, network availability, online status
+weibo, microblog, social media platform, Chinese microblogging site, Weibo platform
+wechat, messaging app, social media app, Chinese messaging platform, WeChat platform
+unique device identifier, device fingerprint, device signature, device token, device registration code
+latitude, geographic latitude, horizontal position, north-south coordinate, latitudinal location
+location, place, position, site, whereabouts
+habit, custom, routine, practice, behavior pattern
+photo album, picture album, image collection, photo gallery, photograph book
+camera, photographic device, digital camera, imaging device, photo shooter
+credit code, credit number, credit identifier, credit reference code, credit system code
+credit card, payment card, plastic card, bank card, financial card
+driving, operating a vehicle, steering, piloting, maneuvering
+journey, trip, travel, voyage, expedition
+driven distance, travel distance, mileage, distance covered, distance traveled
+industry, sector, field, business, trade
+whereabouts, location, position, place, residence
+hobby, pastime, leisure activity, pursuit, recreation
+job, occupation, profession, employment, work
+gender, sex, biological sex, sexual identity, gender identity
+serial number, serial code, identification number, reference number, sequence number
+serial code, serial number, identification code, reference code, sequence code
+educational qualifications, academic credentials, educational background, educational attainment, educational achievements
+school, educational institution, academic institution, learning center, educational facility
+mobile device identifier, mobile ID, device registration number, unique mobile identifier, mobile token
+mobile application list, app list, mobile program catalog, application directory, mobile software inventory
+bank, financial institution, banking establishment, monetary institution, credit union
+business license, operating license, company registration, commercial permit, trade license
+post code, postal code, ZIP code, mailing code, postcode
+mail, email, electronic mail, message, correspondence
+postal code, post code, ZIP code, mailing code, postcode
+voice, vocal sound, speech, audio, vocalization
+reading history, reading record, book history, reading log, reading chronicle
+reading preferences, reading choices, book preferences, literary tastes, reading interests
+movement state, motion status, activity state, mobility condition, physical movement
+account number, account ID, account code, account reference, account identifier
+account, user account, profile, personal account, member account
+photo, picture, image, photograph, snapshot
+identity, identification, personal identity, individuality, selfhood
+diagnosis and treatment, medical diagnosis, therapy, medical care, medical examination
+documents, paperwork, records, files, documentation
+rank, position, status, standing, hierarchy
+position, job, role, employment, work
+profession, occupation, vocation, career, calling
+fingerprint, biometric print, fingerprint pattern, dactylogram, fingerprint impression
+address, location, residence, place, site
+qualification, credentials, certification, competence, skill
+religious beliefs, faith, spirituality, religious convictions, religious faith
+footprints, traces, tracks, marks, imprints
+organize, arrange, sort, systematize, structure
+nick name, nickname, alias, handle, screen name
+license plate, vehicle registration plate, number plate, car tag, registration number
+qq, instant messaging platform, Chinese social media platform, QQ platform
+education, schooling, learning, instruction, academic training
+sex, gender, biological sex, sexual identity, gender identity
